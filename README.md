@@ -3,10 +3,16 @@
 The project is to create an automated pipeline/tool for Amazing Prime Video hackathon to anticipate low budget movies being released that will become popular so Amazing Prime Video can buy the streaming rights. The data sources that were used in this project are Wikipedia data, Kaggle metadata and the MovieLens rating data but the data needs to be cleaned, transformed and loaded into an PostgreSQL database to do the analysis.  
 
 This hackathon requires four deliverables:
+
 Deliverable 1: Write an ETL Function to Read Three Data Files
+<br/>
 Deliverable 2: Extract and Transform the Wikipedia Data
+<br/>
 Deliverable 3: Extract and Transform the Kaggle data
+<br/>
 Deliverable 4: Create the Movie Database
+
+<br/>
 
 ## Results
 
